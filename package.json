@@ -1,0 +1,23 @@
+{
+  "name": "jollof-admin",
+  "version": "1.0.0",
+  "description": "- To get started please open the [Documentation page](//keenthemes.com/keen/?page=docs).",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estauray-Business-Solution/jollof-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estauray-Business-Solution/jollof-admin/issues"
+  },
+  "homepage": "https://github.com/Estauray-Business-Solution/jollof-admin#readme"
+}
