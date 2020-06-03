@@ -17,7 +17,7 @@
 
 // 3: Bootstrap framework includes
 @import "global/integration/frameworks/bootstrap/variables";
-@import "../../../tools/node_modules/bootstrap/scss/bootstrap";
+@import '~bootstrap/scss/bootstrap';
 @import "global/integration/frameworks/bootstrap/bootstrap.scss";
 
 // 4: Components include
